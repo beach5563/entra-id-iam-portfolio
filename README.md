@@ -129,7 +129,7 @@ Reviewed Microsoft Entra external collaboration and guest access settings.
 - Identity governance concepts
 - Documentation and troubleshooting
 
-- ## Project 2 — Identity Governance
+## Project 2 — Identity Governance
 
 This project focuses on Microsoft Entra identity governance capabilities used to manage access, review permissions, and control privileged access.
 

@@ -96,6 +96,9 @@ Created a Conditional Access policy to require MFA for the IAM lab environment.
 - Targeted the IAM lab users
 - Reviewed target resources and access controls
 - Used report-only mode during initial testing
+  **Evidence:**
+
+📷 [View Conditional Access Screenshot](conditional-access-require-MFA.png)
   
   
 
@@ -108,3 +111,6 @@ Reviewed Microsoft Entra external collaboration and guest access settings.
 - Reviewed guest invitation settings
 - Reviewed external user self-service settings
 - Reviewed cross-tenant collaboration controls
+  **Evidence:**
+
+📷 [View External Collaboration Screenshot](External-Collaboration-Settings.png)

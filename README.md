@@ -115,5 +115,18 @@ Reviewed Microsoft Entra external collaboration and guest access settings.
   **Evidence:**
 
 📷 [View External Collaboration Screenshot](./08-External-Collaboration-Settings.png)
+
+## Skills Demonstrated
+
+- Microsoft Entra ID user and group administration
+- Identity lifecycle and account administration
+- Microsoft Authenticator and MFA
+- Self-Service Password Reset (SSPR)
+- Conditional Access policy configuration
+- Guest access and external collaboration settings
+- Microsoft 365 licensing awareness
+- Identity and access management fundamentals
+- Identity governance concepts
+- Documentation and troubleshooting
  
 

@@ -33,6 +33,9 @@ Created and configured test users to practice basic identity lifecycle and accou
 - Reviewed user profile and account properties
 - Verified user type and sign-in identifiers
 - Reviewed group memberships and assigned resources
+ **Evidence:**
+
+📷 [View User Administration Screenshot](01-Users-Overview.png)
 
 ### 2. Group Management
 

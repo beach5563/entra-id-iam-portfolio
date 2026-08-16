@@ -179,4 +179,34 @@ These exercises provided practical exposure to the principles of least privilege
 
 > Note: Some Identity Governance capabilities require Microsoft Entra ID Governance or Microsoft Entra ID P2 licensing. Where the lab tenant did not provide access to a feature, the capability was reviewed through Microsoft documentation and portal exploration rather than represented as a completed configuration.
  
+## Professional Development & Certification Preparation
 
+This portfolio is part of an ongoing professional development plan focused on Microsoft identity, access management, and modern cloud administration.
+
+### Current Focus
+
+- Microsoft SC-300: Identity and Access Administrator
+- Microsoft Entra ID administration
+- Identity and access management (IAM)
+- Authentication and MFA
+- Conditional Access
+- Self-Service Password Reset (SSPR)
+- Identity governance and least-privilege concepts
+- Microsoft 365 administration
+- Endpoint and device management with Microsoft Intune
+
+### Hands-On Development
+
+The lab environment is used to reinforce Microsoft identity concepts through practical configuration, troubleshooting, documentation, and scenario-based exercises.
+
+Additional Microsoft identity and endpoint training is being completed through Microsoft Learn, hands-on labs, and structured certification preparation.
+
+### Career Direction
+
+Targeting opportunities involving:
+
+- Microsoft Entra ID / IAM administration
+- Identity and Access Management support
+- Microsoft 365 administration
+- Endpoint administration
+- Cloud and infrastructure support

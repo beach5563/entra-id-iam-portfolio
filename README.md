@@ -19,7 +19,8 @@ The lab environment is used to safely practice identity administration tasks, do
 - Self-Service Password Reset (SSPR)
 - Microsoft Entra groups and user administration
 - Identity governance concepts
-- ## Project 1 — IAM Foundation
+
+## Project 1 — IAM Foundation
 
 This project focuses on foundational Microsoft Entra ID identity and access management tasks performed in the lab tenant.
 

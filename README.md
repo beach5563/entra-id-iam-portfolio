@@ -46,6 +46,9 @@ Created a dedicated security group for IAM lab testing.
 - Configured assigned membership
 - Added test users to the group
 - Verified direct group membership
+ **Evidence:**
+
+📷 [View Group Management Screenshot](02-Groups-IAM-Lab-Users.png)
 
 ### 3. Licensing
 
@@ -55,6 +58,9 @@ Reviewed Microsoft 365 licensing and license assignment workflows.
 - Reviewed available licensing information
 - Examined user license assignment status
 - Identified Microsoft 365 licensing requirements for identity features
+  **Evidence:**
+
+📷 [View Licensing Review Screenshot](03-Licensing-Review.png)
 
 ### 4. Multi-Factor Authentication
 
@@ -65,6 +71,9 @@ Configured Microsoft Authenticator as an authentication method for the IAM lab g
 - Targeted the `IAM-Lab-Users` group
 - Registered a test user for Microsoft Authenticator
 - Verified MFA authentication during sign-in
+  **Evidence:**
+
+📷 [View MFA / Microsoft Authenticator Screenshot](05-MFA-User-Registration.png)
 
 ### 5. Self-Service Password Reset (SSPR)
 
@@ -74,6 +83,9 @@ Configured Self-Service Password Reset for the IAM lab group.
 - Enabled SSPR for `IAM-Lab-Users`
 - Reviewed authentication method requirements
 - Verified password reset/security information configuration
+  **Evidence:**
+
+📷 [View SSPR Configuration Screenshot](06-SSPR-Configuration.png)
 
 ### 6. Conditional Access
 
@@ -84,6 +96,8 @@ Created a Conditional Access policy to require MFA for the IAM lab environment.
 - Targeted the IAM lab users
 - Reviewed target resources and access controls
 - Used report-only mode during initial testing
+  
+  
 
 ### 7. External Collaboration
 

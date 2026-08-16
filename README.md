@@ -128,5 +128,55 @@ Reviewed Microsoft Entra external collaboration and guest access settings.
 - Identity and access management fundamentals
 - Identity governance concepts
 - Documentation and troubleshooting
+
+- ## Project 2 — Identity Governance
+
+This project focuses on Microsoft Entra identity governance capabilities used to manage access, review permissions, and control privileged access.
+
+### 1. Access Reviews
+
+Reviewed Microsoft Entra Access Reviews and the role they play in periodically validating user access to applications, groups, and resources.
+
+**Lab activities:**
+
+- Reviewed the Microsoft Entra Access Reviews feature
+- Examined access review configuration and review concepts
+- Reviewed how organizations can periodically validate user access
+- Identified the role of access reviews in maintaining least-privilege access
+
+**Lab status:** Reviewed / training
+
+### 2. Entitlement Management and Access Packages
+
+Reviewed Microsoft Entra Entitlement Management and Access Packages for managing controlled access to organizational resources.
+
+**Lab activities:**
+
+- Reviewed Access Packages and entitlement management concepts
+- Examined how access packages can bundle resources for users
+- Reviewed access request and approval concepts
+- Studied how entitlement management supports lifecycle-based access
+
+**Lab status:** Reviewed / training
+
+### 3. Privileged Identity Management (PIM)
+
+Explored Microsoft Entra Privileged Identity Management and Just-In-Time privileged access concepts.
+
+**Lab activities:**
+
+- Reviewed Microsoft Entra PIM
+- Examined eligible versus active role assignments
+- Reviewed Just-In-Time privileged access concepts
+- Explored Microsoft Entra role management
+- Reviewed PIM auditing and activation concepts
+
+**Lab status:** Hands-on exploration / licensing limited
+
+### Identity Governance Learning Outcome
+
+These exercises provided practical exposure to the principles of least privilege, periodic access review, entitlement management, and Just-In-Time administrative access.
+
+> Note: Some Identity Governance capabilities require Microsoft Entra ID Governance or Microsoft Entra ID P2 licensing. Where the lab tenant did not provide access to a feature, the capability was reviewed through Microsoft documentation and portal exploration rather than represented as a completed configuration.
  
 
